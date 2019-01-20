@@ -27,3 +27,7 @@ var h;
 김말자|34|여|
 
 강조
+
+[구글](http://google.com)
+
+[네이버](http://naver.com)
